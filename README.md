@@ -2,6 +2,8 @@
 
 This folder holds all materials for KIV/PIA labs.
 
+# [Version for year 2022](https://github.com/leheckaj/kiv-pia-labsReact/tree/4cebd63b16e0ce50150c2484b2898fda74173309)
+
 Each topic has its own wiki page.
 
 ## Intended Order
